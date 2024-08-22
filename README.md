@@ -29,3 +29,8 @@ Circuit presented by W2AEW on his youtube channel. The video can be found here: 
 ## Further information
 
 More details are available on my personal site [https://sebastianharnisch.de](https://sebastianharnisch.de).
+
+## Disclaimer
+
+This repository and all data and information is provided "AS IS" without any warranty whatsoever.
+
