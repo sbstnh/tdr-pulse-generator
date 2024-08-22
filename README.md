@@ -32,5 +32,5 @@ More details are available on my personal site [https://sebastianharnisch.de](ht
 
 ## Disclaimer
 
-This repository and all data and information is provided "AS IS" without any warranty whatsoever.
+This repository all its Content is provided "AS IS" without any warranty whatsoever.
 
